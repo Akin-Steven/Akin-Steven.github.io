@@ -20,6 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   & Earth Science (Miami, FL, USA). I work in Nick Shays Upper Ocean Dynamics Lab.
 github_username: Akin-Steven
 minimal_mistakes_skin: neon
+custom_css:
+  - /assets/css/custom.css
 search: true
 
 # Build settings
