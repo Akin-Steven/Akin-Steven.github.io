@@ -1,0 +1,5 @@
+.author__avatar img {
+  width: 180px !important;   /* Change to your preferred size */
+  height: 180px !important;  /* Make it square, or adjust as needed */
+  border-radius: 50%;        /* Keep it round */
+}
